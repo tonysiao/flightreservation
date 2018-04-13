@@ -7,8 +7,7 @@
 <title>Find Flights</title>
 </head>
 <body>
-<h2>Find Flight:
-</h2>
+<h2>Find FLights:</h2>
 <form action="findFlights" method="post">
 From:<input type="text" name="from"/>
 To:<input type="text" name="to"/>
